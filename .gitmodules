@@ -1,0 +1,6 @@
+[submodule "wp2md"]
+	path = wp2md
+	url = https://github.com/dreikanter/wp2md
+[submodule "wordpress-to-markdown"]
+	path = wordpress-to-markdown
+	url = https://github.com/ytechie/wordpress-to-markdown.git
