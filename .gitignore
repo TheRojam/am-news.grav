@@ -4,3 +4,4 @@ html-to-md/*
 *.xml
 *\r .yaml
 *.csv
+*.tar.gz
